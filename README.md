@@ -17,10 +17,15 @@ This a public preview of my projet for Natalia Guzun's website.
 
 
 <h3>Related features</h3>
+<br/>
 - Creating properties with images import (Banners, images)
+<br/>
 - Editing, Deleting (if Admin)
+<br/>
 - Show informations (rooms, bathrooms, description...)
+<br/>
 - Like button
+<br/>
 - A nice and smooth caroussel
 
 <div align='left'><h1>Profile</h1>
@@ -32,9 +37,13 @@ This a public preview of my projet for Natalia Guzun's website.
 
 
 <h3>Related features</h3>
+<br/>
 - Creating an account
+<br/>
 - Editing it, changing the profile picture
+<br/>
 - Access to liked properties
+<br/>
 - Meetings overview
 
 <div align='left'><h1>Meetings</h1>
@@ -48,7 +57,10 @@ This a public preview of my projet for Natalia Guzun's website.
 
 
 <h3>Related features</h3>
+<br/>
 - Creating a ticket, selecting a date and receiving data
+<br/>
 - Meetings tickets list for admins.
+<br/>
 - Displaying all meetings in a calendar (FullCalendar JS)
 
