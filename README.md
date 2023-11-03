@@ -1,4 +1,4 @@
-<div align='center'><h1>Passion Essence</h1>
+<div align='center'><h1>Real Estate Web App</h1>
 </div>
 
 This a public preview of my projet for Natalia Guzun's website.
