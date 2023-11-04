@@ -9,6 +9,9 @@ Below are images of the site and code snippets and others details about the appl
 </div>
 <img src="https://github.com/CN-Works/Real-Estate-Website/assets/92865037/c20dacf2-e2bb-4a38-a35a-2789e4445f4e"/>
 
+<div align='left'><h1>Loading animation</h1>
+</div>
+<img src="https://github.com/CN-Works/Real-Estate-WebApp/assets/92865037/97d5ccb5-fd2a-4374-9177-c434790586c9"/>
 
 <div align='left'><h1>Properties</h1>
 </div>
