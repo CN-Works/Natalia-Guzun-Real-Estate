@@ -2,6 +2,8 @@
 </div>
 
 This a public preview of my projet for Natalia Guzun's website.
+For legal reasons I can't publish the whole project, but here are a few pieces of code to give you an idea of how I went about completing the various tasks.
+Below are images of the site and code snippets and others details about the application's main functions.
 
 <div align='left'><h1>Home page</h1>
 </div>
@@ -55,12 +57,15 @@ This a public preview of my projet for Natalia Guzun's website.
 <img src="https://github.com/CN-Works/Real-Estate-Website/assets/92865037/301b98bd-997c-4a87-8682-ed11375b032f"/>
 <img src="https://github.com/CN-Works/Real-Estate-Website/assets/92865037/37cf683f-87b6-48d9-8070-8e9aae7088df"/>
 
+<div align='left'><h1>Code snippets</h1>
 
-<h3>Related features</h3>
+<h3>Uploader Service and File management</h3>
+<img src="https://github.com/CN-Works/Real-Estate-WebApp/assets/92865037/0145022d-507b-48fc-846d-efca13f8969f"/>
+<img src="https://github.com/CN-Works/Real-Estate-WebApp/assets/92865037/00490b93-902d-4239-af20-ee5f280b517d"/>
+
 <br/>
-- Creating a ticket, selecting a date and receiving data
+- Uploading images from a form view.
+- Saving them into objects.
+- Deleting them when they're no longer used.
 <br/>
-- Meetings tickets list for admins.
-<br/>
-- Displaying all meetings in a calendar (FullCalendar JS)
 
