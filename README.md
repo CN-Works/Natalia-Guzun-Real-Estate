@@ -38,7 +38,7 @@ Below are images of the site and code snippets and others details about the appl
 
 <img src="https://github.com/CN-Works/Real-Estate-Website/assets/92865037/43a8c70a-a49e-4d96-b267-229fa05b80fe"/>
 
-<img src="https://github.com/CN-Works/Real-Estate-Website/assets/92865037/52b5e0d8-5dab-42ff-9f87-65f1392468d4"/>
+<img src="https://github.com/CN-Works/Real-Estate-WebApp/assets/92865037/85679177-6fc1-46e1-ad81-a4293a8a6597"/>
 
 
 <h3>Related features</h3>
@@ -72,5 +72,17 @@ Below are images of the site and code snippets and others details about the appl
 - Saving them into objects.
 <br/>
 - Deleting them when they're no longer used.
+<br/>
+
+<h3>Meetings management</h3>
+
+<img src="https://github.com/CN-Works/Real-Estate-WebApp/assets/92865037/a3f12128-035a-476d-b663-1fbe5e9e8206"/>
+
+<br/>
+- Verifying user's date input, cancel meeting unwhitelisted dates (sunday for exemple) or previous days.
+<br/>
+- Storing meetings demands in database, then accepting them and choosing the time (datetime) after a phone call with the client.
+<br/>
+- Then, displaying all the meetings in the calendar using JSON to convert data from php table to javascript (for FullCalendar JS).
 <br/>
 
