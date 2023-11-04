@@ -65,7 +65,9 @@ Below are images of the site and code snippets and others details about the appl
 
 <br/>
 - Uploading images from a form view.
+<br/>
 - Saving them into objects.
+<br/>
 - Deleting them when they're no longer used.
 <br/>
 
