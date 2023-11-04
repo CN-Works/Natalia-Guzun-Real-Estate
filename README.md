@@ -78,6 +78,8 @@ Below are images of the site and code snippets and others details about the appl
 
 <img src="https://github.com/CN-Works/Real-Estate-WebApp/assets/92865037/a3f12128-035a-476d-b663-1fbe5e9e8206"/>
 
+<img src="https://github.com/CN-Works/Real-Estate-WebApp/assets/92865037/f8920d3a-22f5-428f-b33d-dc58ab9e4b83"/>
+
 <br/>
 - Verifying user's date input, cancel meeting unwhitelisted dates (sunday for exemple) or previous days.
 <br/>
