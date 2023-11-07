@@ -2,7 +2,9 @@
 </div>
 
 This a public preview of my projet for Natalia Guzun's website using JavaScript and Symfony 6.
+<br/>
 For legal reasons I can't publish the whole project, but here are a few pieces of code to give you an idea about how I completed the tasks.
+<br/>
 Below are images of the site and code snippets and others details about the application's main functions.
 
 <div align='left'><h1>Home page</h1>
