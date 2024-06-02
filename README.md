@@ -1,7 +1,7 @@
 <div align='center'><h1>Real Estate Web App</h1>
 </div>
 
-This a public preview of my projet for Natalia Guzun's website using JavaScript and Symfony 6.
+This a public preview of my projet for a reak estate website using JavaScript and Symfony 6.
 <br/>
 For legal reasons I can't publish the whole project, but here are a few pieces of code to give you an idea about how I completed the tasks.
 <br/>
